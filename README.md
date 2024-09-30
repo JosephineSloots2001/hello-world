@@ -6,4 +6,3 @@ My life is a movie.
 
 GRoetjes, Josephine
 
-now i have edited this file on the first-branch from main branch 
